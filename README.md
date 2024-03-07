@@ -1,3 +1,4 @@
+<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 <h1 align="center">Hi 👋, I'm Abhik Baidya</h1>
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
