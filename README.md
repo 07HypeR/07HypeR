@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/abhik-baidya-4b04962b9/)
 
 - 💬 Ask me about **open source, web development, and community management**
 
