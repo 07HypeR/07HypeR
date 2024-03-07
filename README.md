@@ -1,19 +1,19 @@
 
+ ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h1 align="center">Hi 👋, I'm Abhik Baidya <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I’m currently on a journey to build **great** things      <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">        
+
 
 - 🌱 I’m currently learning **everything** 🤓
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**               ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
+- 🤝 I’m looking for help with **finding projects to contribute to!**   
 
 - 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/abhik-baidya-4b04962b9/)
 
