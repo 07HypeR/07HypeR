@@ -1,6 +1,6 @@
 
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently learning **everything** 🤓
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+- 🤝 I’m looking for help with **finding projects to contribute to!**               ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 
 - 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/abhik-baidya-4b04962b9/)
 
