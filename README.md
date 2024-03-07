@@ -3,7 +3,18 @@
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Reactjs<br>👯 I’m looking to collaborate on Web development<br>🤝 I’m looking for help with Threejs<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about Web & App development<br>⚡ Fun fact I Think I am Funny.
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+
+- 💬 Ask me about **open source, web development, and community management**
+
+- 📫 Reach me out at **contact@miaxu.co**
+
 
 
 ## 🌐 Socials:
