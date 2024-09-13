@@ -48,4 +48,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=07HypeR&icon=4&color=9)](https://visitcount.itsvg.in)
 
+## Snake eating my contribution graph
+![snake gif](https://github.com/07HypeR/07HypeR/blob/output/github-contribution-grid-snake.gif)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
