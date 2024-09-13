@@ -43,7 +43,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=07HypeR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='meme-api.com/gimme' style="height: 400px;"/>
+<img src='https://api.apispreadsheets.com/data/581/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=07HypeR&icon=4&color=9)](https://visitcount.itsvg.in)
