@@ -44,7 +44,6 @@
 
 ### 😂 Random Dev Meme
   ![Reddit](https://i.redd.it/5izq2xc8j2xa1.jpg)
-<img src='https://api.apispreadsheets.com/data/581/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=07HypeR&icon=4&color=9)](https://visitcount.itsvg.in)
