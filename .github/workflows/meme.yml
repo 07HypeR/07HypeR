@@ -1,0 +1,21 @@
+name: Dev Memes
+on:
+  # run on every 24 hours
+  schedule:
+    - cron: '0 */24 * * *'
+      
+  # or run on every push on the master branch 
+  push:
+    branches:
+    - main
+    
+jobs:
+  deploy:
+    name: Update Dev Meme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update meme
+        uses: 07HypeR/07HypeR@v1.0
+        with:
+          fetch_num: 50
+          
