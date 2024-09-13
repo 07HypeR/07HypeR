@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
+       - uses: 07HypeR/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: 07HypeR
             # Text on contribution graph 
             text: ABHIK
-       - uses: jasineri/simple-push-action@v1
+       - uses: 07HypeR/simple-push-action@v1
