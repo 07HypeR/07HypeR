@@ -7,7 +7,7 @@ on:
   # or run on every push on the master branch 
   push:
     branches:
-    - main
+    - master
     
 jobs:
   deploy:
@@ -15,7 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update meme
-        uses: 07HypeR/07HypeR@v1.0
+        uses: cgyinthehouse/dev-memes-for-README@v1.0
         with:
           fetch_num: 50
-          
+          commit_author: Mike Oxlong
+          commit_email: mikeoxlong@users.noreply.github.com
