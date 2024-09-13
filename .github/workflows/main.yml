@@ -15,4 +15,4 @@
             user_name: 07HypeR
             # Text on contribution graph 
             text: ABHIK
-       - uses: 07HypeR/simple-push-action@v1
+       - uses: 07HypeR/07HypeR@v1
