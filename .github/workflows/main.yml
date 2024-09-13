@@ -12,7 +12,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: jasineri
+            user_name: 07HypeR
             # Text on contribution graph 
-            text: JASINERI
-       - uses: jasineri/simple-push-action@v1
+            text: ABHIK
+       - uses: 07HypeR
