@@ -11,7 +11,7 @@
 <img align='right' margin-bottom= '5' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">    
 - 🔭 I’m currently on a journey to build **great** things    
 
-- 🌱 I’m currently learning **everything** 😎
+- 🌱 I’m currently learning **everything** 😉
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**   
 
