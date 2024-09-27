@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Frontend developer from India.</h3>
 
 # 💫 About Me:  
-<img align='right' margin-bottom= '5' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">    
+<img align='right' margin-bottom= '10' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">    
 - 🔭 I’m currently on a journey to build **great** things    
 
 - 🌱 I’m currently learning **everything** 😉
