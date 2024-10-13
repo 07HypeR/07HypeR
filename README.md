@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhik Baidya <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<h3 align="center">A passionate FullStack developer from India.</h3>
+<h3 align="center">A passionate Full-Stack developer from India.</h3>
 
 # 💫 About Me:  
 <img align='right' margin-bottom= '10' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">    
